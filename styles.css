@@ -1,0 +1,8 @@
+#boxbr, #boxsi, #boxgo {
+    display: inline-block;
+    width: 350px;
+}
+ h2, p {
+    margin: 0
+}
+
